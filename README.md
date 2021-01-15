@@ -27,7 +27,15 @@ Additional
 - the function should support any number of sales orders or purchase orders
 - to make it simple we only have one product
 
-### Run exercise
+### NodeJS Version
+this exercise has  done with node v10.15.3
+
+```javascript
+nvm install 10.15.3
+nvm use 10.15.3
+```
+
+### Install 
 
 ```javascript
 npm i
