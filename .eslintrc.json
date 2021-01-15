@@ -1,0 +1,29 @@
+{
+    "extends": "eslint:recommended",
+    "env": {
+        "node": true,
+        "es6": true,
+        "jest": true
+    },
+    "parserOptions": {
+        "ecmaVersion": 2017
+    },
+    "rules": {
+        "arrow-parens": [
+            "warn",
+            "as-needed"
+        ],
+        "semi": [
+            "error",
+            "always"
+        ],
+        "no-extra-semi": "error",
+        "semi-spacing": [
+            "error",
+            {
+                "before": false,
+                "after": true
+            }
+        ]
+    }
+}

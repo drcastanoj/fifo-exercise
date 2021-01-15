@@ -27,6 +27,11 @@ Additional
 - the function should support any number of sales orders or purchase orders
 - to make it simple we only have one product
 
+### Run exercise
+
+```javascript
+npm i
+```
 
 ### Run exercise
 
